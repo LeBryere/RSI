@@ -1,20 +1,17 @@
-## Browser Support
+## TradingView Support
 
-![TradingView](https://avatars.githubusercontent.com/u/7644688?s=48&v=4) | ![Edge](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Opera](https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png) | ![Samsung Internet](https://raw.githubusercontent.com/alrra/browser-logos/master/src/samsung-internet/samsung-internet_48x48.png)
---- | --- |
+![TradingView](https://avatars.githubusercontent.com/u/7644688?s=48&v=4) |
+--- |
 99+ ✔ |
 
-# [Enhanced RSI Divergence Indicator](https://lebryere.github.io/moving-average-chart/)
-
+# Enhanced RSI Divergence Indicator
 ## Preview
 
-[![Resume Preview](preview.jpg)](https://lebryere.github.io/moving-average-chart/)
-
-**[View Live Preview](https://lebryere.github.io/moving-average-chart/)**
+![Resume Preview](rsi_1.jpg)
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/licence-extended_CC_BY_NC-green%3F%26style%3Dplastic?style=plastic)](https://raw.githubusercontent.com/LeBryere/moving-average-chart/master/LICENCE)
+[![GitHub license](https://img.shields.io/badge/licence-extended_CC_BY_NC-green%3F%26style%3Dplastic?style=plastic)](https://raw.githubusercontent.com/LeBryere/RSI/master/LICENCE)
 
 # Enhanced RSI Divergence Indicator
 ## 1. Bevezetés
@@ -54,6 +51,8 @@ Az indikátor opcionálisan címkéket is megjelenít az RSI panel felett (beari
 
 **RSI vonalak**
 Az indikátor megjeleníti az **`RSI vonalát, a középvonalat (50)`**, valamint a **`túlvett (70)`** és **`túladott (30)`** szinteket.
+
+![Resume Preview](rsi_3.jpg)
 
 ## 4. Beállítások (Inputs)
 
@@ -117,8 +116,8 @@ Az Enhanced RSI Divergence indikátor segít azonosítani az árfolyam változá
 
 ### Enhanced RSI Divergence Indicator
 
-[![Preview](preview2.jpg)](https://lebryere.github.io/moving-average-chart/index2.html)
+![Resume Preview](rsi_2.jpg)
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/licence-extended_CC_BY_NC-green%3F%26style%3Dplastic?style=plastic)](https://raw.githubusercontent.com/LeBryere/moving-average-chart/master/LICENCE)
+[![GitHub license](https://img.shields.io/badge/licence-extended_CC_BY_NC-green%3F%26style%3Dplastic?style=plastic)](https://raw.githubusercontent.com/LeBryere/RSI/master/LICENCE)
