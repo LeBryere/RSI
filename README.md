@@ -7,7 +7,7 @@
 # Enhanced RSI Divergence Indicator
 ## Preview
 
-![Resume Preview](rsi_1.jpg)
+![Resume Preview](rsi-1.jpg)
 
 ## Status
 
@@ -52,7 +52,7 @@ Az indikátor opcionálisan címkéket is megjelenít az RSI panel felett (beari
 **RSI vonalak**
 Az indikátor megjeleníti az **`RSI vonalát, a középvonalat (50)`**, valamint a **`túlvett (70)`** és **`túladott (30)`** szinteket.
 
-![Resume Preview](rsi_3.jpg)
+![Resume Preview](rsi-3.jpg)
 
 ## 4. Beállítások (Inputs)
 
@@ -116,7 +116,7 @@ Az Enhanced RSI Divergence indikátor segít azonosítani az árfolyam változá
 
 ### Enhanced RSI Divergence Indicator
 
-![Resume Preview](rsi_2.jpg)
+![Resume Preview](rsi-2.jpg)
 
 ## Status
 
